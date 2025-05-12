@@ -13,7 +13,17 @@ HydroMind is a minimalist hydration reminder app designed for clarity and focus.
 - **Can I customize the notification sounds?**  
   Yes, go to the preferences panel to select your preferred sound.
 - **Does it support multiple languages?**  
-  Yes, HydroMind is available in multiple languages.
+  Yes, HydroMind is available in the following languages:
+  - English
+  - Italian
+  - French
+  - German
+  - Spanish
+  - Portuguese
+  - Japanese
+  - Chinese (Simplified)
+  - Arabic
+  - Dutch
 - **How can I report a bug or request a feature?**  
   Open an issue on this repository or contact us directly.
 
