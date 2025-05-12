@@ -29,6 +29,7 @@ HydroMind does not collect or share your data. Your reminders are stored locally
 ## 📫 Contact
 For support or to report an issue, please **open a new issue** on this repository:  
 ➡️ [Create a New Issue](https://github.com/mattlab69/HydroMind-Support/issues/new?template=bug_report.md)
+➡️ [Request a New Feature](https://github.com/mattlab69/HydroMind-Support/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=)
 
 
 ## 📜 License
