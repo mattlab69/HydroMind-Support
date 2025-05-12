@@ -27,7 +27,7 @@ HydroMind is a minimalist hydration reminder app designed for clarity and focus.
 HydroMind does not collect or share your data. Your reminders are stored locally for maximum privacy.
 
 ## 📫 Contact
-For support, email [support@hydromind.app](mailto:support@hydromind.app) or open an issue here on GitHub.
+For support, open an issue here on GitHub or contact me directly.
 
 ## 📜 License
 HydroMind is © 2025 M. Minellono All rights reserved.
